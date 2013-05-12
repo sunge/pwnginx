@@ -42,6 +42,7 @@ Get a socks5 tunnel listening at [socks5ip]:[socks5port]
     $ sudo cp -f objs/nginx /path/to/nginx/sbin/nginx
 
 * Restart nginx
+
     $ sudo killall nginx && /path/to/nginx/sbin/nginx
 
 
